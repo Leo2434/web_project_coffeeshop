@@ -8,10 +8,13 @@ La pagina se conforma por la siguientes secciones:
 
 **Sección encabezado:**
 Este apartado representa los datos generales, como el horario y links que dirijen a las demás secciones.
+
 **Sección recetas:**
 Este apartado contiene 2 videos tutoriales insertados desde youtube, que muestran 2 tecnicas para preparar un buen café.
+
 **Sección reservación:**
 Este apartado se solicitan los datos necesarios por medio de un formulario para reservar una mesa en la cafetería, como el correo electronico y la fecha de sererva.
+
 **Sección contactos:**
 Este apartado muestra los datos de contacto de la cafetería Triple Espresso, así como el horario de atención y los enlaces que dirijen a las redes sociales de la misma.
 
